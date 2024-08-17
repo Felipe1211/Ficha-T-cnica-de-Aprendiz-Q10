@@ -3,7 +3,7 @@
 <p>
 Este proyecto es una aplicación de consola desarrollada en C# utilizando .NET Framework 4.8. La aplicación permite gestionar una lista de tareas, incluyendo la capacidad de agregar, listar, marcar como completadas y eliminar tareas.
 
-El proyecto consta de tres archivos Tarea.cs, Service.cs y Program.cs.
+
 </p>
 
 
