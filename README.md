@@ -14,4 +14,5 @@ El proyecto consta de tres archivos Tarea.cs, Service.cs y Program.cs.
 ## Instalación y Ejecución
 
 1. **Clonar el Repositorio**
-2. **Ejecutar la aplicación de consola**
+2. **Abrir el archivo "ListaApp.sln"**
+3. **Ejecutar la aplicación de consola**
