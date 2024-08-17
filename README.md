@@ -1,0 +1,1 @@
+# Ficha-T-cnica-de-Aprendiz-Q10
