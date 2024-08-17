@@ -1,0 +1,14 @@
+C:\Users\juanf\source\repos\ListaFichaTécnica\ListaFichaTécnica\obj\Debug\ListaApp.csproj.AssemblyReference.cache
+C:\Users\juanf\source\repos\ListaFichaTécnica\ListaFichaTécnica\obj\Debug\ListaApp.csproj.CoreCompileInputs.cache
+C:\Users\juanf\source\repos\ListaFichaTécnica\ListaFichaTécnica\bin\Debug\ListaFichaTécnica.exe.config
+C:\Users\juanf\source\repos\ListaFichaTécnica\ListaFichaTécnica\bin\Debug\ListaFichaTécnica.exe
+C:\Users\juanf\source\repos\ListaFichaTécnica\ListaFichaTécnica\bin\Debug\ListaFichaTécnica.pdb
+C:\Users\juanf\source\repos\ListaFichaTécnica\ListaFichaTécnica\obj\Debug\ListaFichaTécnica.exe
+C:\Users\juanf\source\repos\ListaFichaTécnica\ListaFichaTécnica\obj\Debug\ListaFichaTécnica.pdb
+C:\Users\juanf\Desktop\ListaFichaTécnica\ListaFichaTécnica\bin\Debug\ListaFichaTécnica.exe.config
+C:\Users\juanf\Desktop\ListaFichaTécnica\ListaFichaTécnica\bin\Debug\ListaFichaTécnica.exe
+C:\Users\juanf\Desktop\ListaFichaTécnica\ListaFichaTécnica\bin\Debug\ListaFichaTécnica.pdb
+C:\Users\juanf\Desktop\ListaFichaTécnica\ListaFichaTécnica\obj\Debug\ListaApp.csproj.AssemblyReference.cache
+C:\Users\juanf\Desktop\ListaFichaTécnica\ListaFichaTécnica\obj\Debug\ListaApp.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\ListaFichaTécnica\ListaFichaTécnica\obj\Debug\ListaFichaTécnica.exe
+C:\Users\juanf\Desktop\ListaFichaTécnica\ListaFichaTécnica\obj\Debug\ListaFichaTécnica.pdb
